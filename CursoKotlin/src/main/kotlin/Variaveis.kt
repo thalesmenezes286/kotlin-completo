@@ -5,10 +5,10 @@ fun main() {
 
     //Variavel imultável
     val name = "Thales"
-    println("My name is: "+name)
+    println("My name is: $name")
 
     //Variável multável
     var product = "iMac"
     product = "iPhone"
-    println(product)
+    println("Product: $name")
 }

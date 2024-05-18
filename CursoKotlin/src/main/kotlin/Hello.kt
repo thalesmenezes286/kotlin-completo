@@ -3,5 +3,5 @@ fun main() {
 
     //comentário
     println("Hello World!")
-    println("Welcome to " + name + " Course!")
+    println("Welcome to $name Course!")
 }

@@ -7,5 +7,4 @@ fun main() {
        Comentario com mais de uma linha
      */
     println("Hello World!")
-    println("Welcome to " + name + " Course!")
 }
