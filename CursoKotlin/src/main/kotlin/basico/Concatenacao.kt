@@ -1,3 +1,5 @@
+package basico
+
 fun main(){
     val firstName = "Jhonny"
     val lastName = "Dep"

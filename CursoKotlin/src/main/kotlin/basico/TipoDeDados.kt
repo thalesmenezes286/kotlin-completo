@@ -1,4 +1,4 @@
-
+package basico
 fun main(){
 
     println("Double Max ${Double.MAX_VALUE} - Double Min ${Double.MIN_VALUE}")

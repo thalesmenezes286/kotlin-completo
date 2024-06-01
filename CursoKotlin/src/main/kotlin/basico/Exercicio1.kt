@@ -1,3 +1,5 @@
+package basico
+
 fun main(){
     var name: String = "Thales R. Menezes"
     var noneText: String

@@ -1,3 +1,5 @@
+package basico
+
 fun main() {
     /*
      * Kotlin e uma linguagem estaticamente tipada

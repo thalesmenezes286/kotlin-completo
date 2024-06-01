@@ -1,3 +1,5 @@
+package basico
+
 fun main(){
 
     val soma = 10 + 5 // soma será 15
